@@ -1,0 +1,20 @@
+== License ==
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+
+    News are offer for free by the website [brocardi.it](https://www.brocardi.it/), 
+    you can have more informations and legal notice from this page: [brocardi.it/servizio-notizie-giuridiche](https://www.brocardi.it/notizie-giuridiche/servizio-notizie-giuridiche-sito/2524.html) 
+[brocardi.it/privacy.html](https://www.brocardi.it/privacy.html)
+[brocardi.it/cookie-policy.html](https://www.brocardi.it/cookie-policy.html)
